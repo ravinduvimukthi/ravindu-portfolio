@@ -27,6 +27,6 @@ I'm an ICT undergraduate at Uva Wellassa University and an aspiring Software Eng
 
 ## 📫 Contact
 
-- GitHub   : ravinduvimukthi 
-- LinkedIn : www.linkedin.com/in/ravindu-vimukthi-67b7a4257
-- [Email Me] ravinduvimukthi102@gmail.com
+- GitHub: [ravinduvimukthi](https://github.com/ravinduvimukthi)
+- LinkedIn: [Ravindu Vimukthi](https://www.linkedin.com/in/ravindu-vimukthi-67b7a4257)
+- Email: [ravinduvimukthi102@gmail.com](mailto:ravinduvimukthi102@gmail.com)
