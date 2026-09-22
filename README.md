@@ -23,7 +23,7 @@ I'm an ICT undergraduate at Uva Wellassa University and an aspiring Software Eng
 
 ## 🌐 Live Website
 
-[View My Portfolio]([YOUR-GITHUB-PAGES-LINK](https://ravinduvimukthi.github.io/ravindu-portfolio/))
+[View My Portfolio](https://ravinduvimukthi.github.io/ravindu-portfolio/)
 
 ## 📫 Contact
 
